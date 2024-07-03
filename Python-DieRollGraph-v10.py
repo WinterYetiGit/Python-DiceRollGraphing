@@ -1,5 +1,6 @@
 ################################ 
-# Author: WinterYetiy 
+# WinterYetiy
+# Python-DiceRollGraph-v10.py
 # Date: March 21, 2024
 # Version: 1.0
 # Description: A python program that randomly rolls an imaginary dice and graphs the results 
